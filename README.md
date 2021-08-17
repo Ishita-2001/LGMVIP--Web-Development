@@ -1,13 +1,14 @@
-                                                                               # HELL
-                                              #  Here i have completed 1st and second task provided by LetsGrowMore (LGMVIP).
-# TASK-1
+# Complete two task provided by LGMVIP(2021 virtual Internship Program)
+****************************************************************************
+
+## TASK-1
       Name of website: TouchGlow.
 
       Used tech: HTML,CSS,Javascript.
 
       Here using html css and js i have completed the 1st task, by making a single page website of beauty products.
 
-# TASK-2
+## TASK-2
       Name of website: TouchGlow.
 
       Used tech: React js.
